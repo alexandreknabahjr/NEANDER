@@ -1153,11 +1153,6 @@ applicable agreement for further details.
 	(pt 16 304)
 )
 (connector
-	(text "ci9" (rect 24 304 38 316)(font "Arial" ))
-	(pt 56 320)
-	(pt 16 320)
-)
-(connector
 	(text "ci15" (rect 24 320 44 332)(font "Arial" ))
 	(pt 56 336)
 	(pt 16 336)
@@ -1218,11 +1213,6 @@ applicable agreement for further details.
 	(pt 544 1056)
 )
 (connector
-	(text "ci9" (rect 552 1056 566 1068)(font "Arial" ))
-	(pt 576 1072)
-	(pt 544 1072)
-)
-(connector
 	(text "N" (rect 552 1072 560 1084)(font "Arial" ))
 	(pt 576 1088)
 	(pt 544 1088)
@@ -1251,11 +1241,6 @@ applicable agreement for further details.
 	(text "ci8" (rect 568 1240 582 1252)(font "Arial" ))
 	(pt 584 1256)
 	(pt 560 1256)
-)
-(connector
-	(text "ci9" (rect 568 1256 582 1268)(font "Arial" ))
-	(pt 584 1272)
-	(pt 560 1272)
 )
 (connector
 	(text "N" (rect 552 1552 560 1564)(font "Arial" ))
@@ -1291,11 +1276,6 @@ applicable agreement for further details.
 	(text "ci8" (rect 552 1520 566 1532)(font "Arial" ))
 	(pt 584 1536)
 	(pt 544 1536)
-)
-(connector
-	(text "ci9" (rect 560 1536 574 1548)(font "Arial" ))
-	(pt 584 1552)
-	(pt 552 1552)
 )
 (connector
 	(text "ci2" (rect 560 1680 574 1692)(font "Arial" ))
@@ -1432,11 +1412,6 @@ applicable agreement for further details.
 	(pt 536 784)
 )
 (connector
-	(text "ci9" (rect 544 784 558 796)(font "Arial" ))
-	(pt 576 800)
-	(pt 536 800)
-)
-(connector
 	(text "ci15" (rect 544 800 564 812)(font "Arial" ))
 	(pt 576 816)
 	(pt 536 816)
@@ -1454,4 +1429,29 @@ applicable agreement for further details.
 (connector
 	(pt 704 592)
 	(pt 752 592)
+)
+(connector
+	(text "ci10" (rect 560 1536 580 1548)(font "Arial" ))
+	(pt 584 1552)
+	(pt 552 1552)
+)
+(connector
+	(text "ci10" (rect 24 304 44 316)(font "Arial" ))
+	(pt 56 320)
+	(pt 16 320)
+)
+(connector
+	(text "ci10" (rect 544 784 564 796)(font "Arial" ))
+	(pt 576 800)
+	(pt 536 800)
+)
+(connector
+	(text "ci10" (rect 552 1056 572 1068)(font "Arial" ))
+	(pt 576 1072)
+	(pt 544 1072)
+)
+(connector
+	(text "ci10" (rect 568 1256 588 1268)(font "Arial" ))
+	(pt 584 1272)
+	(pt 560 1272)
 )
